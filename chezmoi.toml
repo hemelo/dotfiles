@@ -1,0 +1,4 @@
+# Located at ~/.config/chezmoi/chezmoi.toml
+[git]
+    autoCommit = true
+    autoPush = true
