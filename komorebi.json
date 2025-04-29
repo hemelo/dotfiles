@@ -1,0 +1,120 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.36/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
+  "window_hiding_behaviour": "Cloak",
+  "cross_monitor_move_behaviour": "Insert",
+  "default_workspace_padding": 0,
+  "default_container_padding": -1,
+  "border": true,
+  "border_width": 8,
+  "border_offset": -1,
+  "theme": {
+    "palette": "Base16",
+    "name": "Ashes",
+    "unfocused_border": "Base03",
+    "bar_accent": "Base0D"
+  },
+  "display_index_preferences": {
+    "0": "GSM7715-5&1da1ad80&0&UID33027",
+    "1": "GSM7714-5&1da1ad80&0&UID33024",
+	"2": "GSM7715-5&1da1ad80&0&UID33025",
+  },
+  "monitors": [
+    {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "II",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "III",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "IV",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "V",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "VI",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "VII",
+          "layout": "UltrawideVerticalStack"
+        }
+      ]
+    },
+	 {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "II",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "III",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "IV",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "V",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "VI",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "VII",
+          "layout": "UltrawideVerticalStack"
+        }
+      ]
+    },
+	 {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "Rows"
+        },
+        {
+          "name": "II",
+          "layout": "Rows"
+        },
+        {
+          "name": "III",
+          "layout": "Rows"
+        },
+        {
+          "name": "IV",
+          "layout": "Rows"
+        },
+        {
+          "name": "V",
+          "layout": "Rows"
+        },
+        {
+          "name": "VI",
+          "layout": "Rows"
+        },
+        {
+          "name": "VII",
+          "layout": "Rows"
+        }
+      ]
+    }
+  ]
+}
